@@ -12,7 +12,7 @@ ENV_DIR=$3
 VENDOR_DIR="$BUILD_DIR/vendor"
 INSTALL_DIR="$VENDOR_DIR/imagemagick"
 
-CONFIG_DIR=/etc/ImageMagick-6
+CONFIG_DIR=etc/ImageMagick-7
 
 # return latest ImageMagick 6.x version, or use argument to get an earlier version (1 is latest, 2 is one-but-latest, etc.)
 detect_im_version() {
