@@ -7,6 +7,9 @@ This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) fo
 
 This one works with [Heroku stack](https://devcenter.heroku.com/articles/stack) `heroku-18` and will always give you the latest 6.x version.
 
+### Index of releases
+https://download.imagemagick.org/ImageMagick/download/releases/
+
 ### Install
 
 In your project root:
